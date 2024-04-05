@@ -1,1 +1,1 @@
-# Simple Nodejs code to snapshot a opensearch and restore it.
+# Simple Nodejs code to create snapshot of a opensearch index and restore it.
